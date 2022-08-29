@@ -56,4 +56,43 @@ h1{
 
 .elenco{
     line-height: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0pt;
+    padding-left: 0px;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+    padding-left: 0pt;
+    color: white;
+    background-color: cornflowerblue;
+  }
+
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 25px;
+  padding-left: 0px;
+  padding-right: 0px;
+  
+}
+
+tr:nth-child(odd) {
+background-color: aqua;
+  }
+  
+
+.testo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }

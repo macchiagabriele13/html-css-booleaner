@@ -1,0 +1,15 @@
+header {
+    height: 100px;
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.logotitolo {
+    width: 200px;
+    display: flex;
+    align-items: baseline;
+
+    
+}

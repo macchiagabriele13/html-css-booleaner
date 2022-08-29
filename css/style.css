@@ -10,6 +10,36 @@ header {
     width: 200px;
     display: flex;
     align-items: baseline;
+}
 
-    
+
+h1{
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+
+}
+.autore{
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.link{
+    color: aqua;
+}
+
+.data{
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+.immagini{
+    width: 100%;
+    margin-right: 0px;
+}
+
+.tim{
+    width: ;
 }

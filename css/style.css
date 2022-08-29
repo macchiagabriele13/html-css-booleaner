@@ -43,3 +43,17 @@ h1{
 .tim{
     width: ;
 }
+
+
+.descrizione{
+    margin: 0px;
+    font-size: 12px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.elenco{
+    line-height: 0px;
+}
